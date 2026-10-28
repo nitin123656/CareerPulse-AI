@@ -22,7 +22,7 @@ import {
   WandSparkles,
 } from "lucide-react";
 
-const API_BASE = "http://localhost:5001/api";
+const API_BASE = "https://careerpulse-ai-lz6v.onrender.com/api";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 22 },
